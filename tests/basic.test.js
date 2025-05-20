@@ -1,1 +1,3 @@
-"test('adds', () => expect(1+1).toBe(2))" 
+test('adds', () => {
+  expect(1 + 1).toBe(2);
+});
